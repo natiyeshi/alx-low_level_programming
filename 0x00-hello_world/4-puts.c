@@ -4,6 +4,9 @@
 int main(void)
 {
 	char file[] =  "\"Programming is like building a multilingual puzzle";
-	puts (file);
+
+	puts(file);
 	return (0);
+
 }
+

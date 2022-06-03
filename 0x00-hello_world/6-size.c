@@ -13,6 +13,5 @@ int main(void)
 	printf("size of a long iny: %zu bite(s)\n", sizeof(LINT));
 	printf("size of a long long int: %zu bite(s)\n", sizeof(LLINT));
 	printf("size of a float: %zu bite(s)\n", sizeof(LLINT));
-	
 	return (0);
 }

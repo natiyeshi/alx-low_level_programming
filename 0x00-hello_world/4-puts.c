@@ -2,9 +2,8 @@
 #include <string.h>
 
 /**
- * my_function - This is a description
+ * main - entry pint
  */
-
 int main(void)
 {
 	char file[] =  "\"Programming is like building a multilingual puzzle";
@@ -13,4 +12,3 @@ int main(void)
 	return (0);
 
 }
-

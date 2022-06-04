@@ -217,4 +217,32 @@ To https://github.com/natiyeshi/alx-low_level_programming.git
 }[m[34;153H10-17[13;17H[?25h[?25l[38;5;224m\[m[34;154H1-18[13;18H[?25h[?25l[38;5;224mn[m[34;154H2-19[13;19H[?25h[?25l[95m"[m
         [93mreturn[m ([1C);
 }[34;154H3-20[13;20H[?25h[?25l)[46m([4C)[m[34;154H4-21[13;21H[?25h[?25l;[13;15H([4C)[34;154H5-22[13;22H[?25h[?25l[14;33r[14;1H[L[1;34r[34;150H[K[34;150H14,2-9[8CAll[14;9H[?25h[34;1H[K[14;1H[?25l[34;140H^[[14;1H[34;140H  [14;9H[34;150H14,0-1[8CAll[14;1H[?25h[?25l[34;140H:[14;1H[34;140H[K[34;1H:[?25hwq[?25l[?1002l[?2004l[>4;m"2-print_alphabet.c" 17L, 147B written[23;2t[23;1t
-[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t                                         
+[?1004l[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31mb[0m[39m[1m[31mb[0m[39m[38;2;153;153;153metty  2-print_alphabet.c[39m[24D[1m[31mb[1m[31me[0m[39m[0m[32mb[0m[32me[32mt[32mt[32my[39m[39m [39m [39m[4m2[39m[4m-[39m[4mp[39m[4mr[39m[4mi[39m[4mn[39m[4mt[39m[4m_[39m[4ma[39m[4ml[39m[4mp[39m[4mh[39m[4ma[39m[4mb[39m[4me[39m[4mt[39m[4m.[39m[4mc[24m[?1l>[?2004l
+
+========== 2-print_alphabet.c ==========
+2-print_alphabet.c:3: warning: no description found for function main
+                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31mg[0m[39m[1m[31mg[0m[39m[38;2;153;153;153mithub[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[1m[31mg[1m[31mi[0m[39m[39m [39m [39m [39m [38;2;153;153;153mthub[39m[1m[31mg[0m[39m[0m[39m [39m [39m [39m [39m [1m[31mg[0m[39m[38;2;153;153;153mithub[39m[0m[39m [39m [39m [39m [39m [39m [32m.[39m[32m.[39m[38;2;153;153;153m/sc[39m[39m[4m.[39m[4m/[24m[4m.[4m/[39m[4ms[24m[24m[32m.[24m[32m/[24m[32ms[32mc[39m[?1l>[?2004l
+Username for 'https://github.com': natiyeshi
+Password for 'https://natiyeshi@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/natiyeshi/alx-low_level_programming.git/'
+                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[32m./sc[39m[?1l>[?2004l
+Username for 'https://github.com': natiyeshi
+Password for 'https://natiyeshi@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/natiyeshi/alx-low_level_programming.git/'
+                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[32m./sc[39m[?1l>[?2004l
+Username for 'https://github.com': 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
+Password for 'https://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@github.com': 
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/natiyeshi/alx-low_level_programming.git/'
+                                                                                                                             

@@ -245,4 +245,80 @@ Password for 'https://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@github.com':
 remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
 remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
 fatal: Authentication failed for 'https://github.com/natiyeshi/alx-low_level_programming.git/'
-                                                                                                                             
+                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[32m./sc[39m[?1l>[?2004l
+Username for 'https://github.com': natiyeshi
+Password for 'https://natiyeshi@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/natiyeshi/alx-low_level_programming.git/'
+                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[32m./sc[39m[?1l>[?2004l
+Username for 'https://github.com': natiyeshi
+Password for 'https://natiyeshi@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/natiyeshi/alx-low_level_programming.git/'
+                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31mp[0m[39m[1m[31mp[0m[39m[38;2;153;153;153mwd[39m[1m[31mp[1m[31mq[0m[39m[39m [38;2;153;153;153md[39m[1m[31mp[1m[31mq[1m[31mw[0m[39m[1m[31mp[1m[31mq[0m[39m[0m[39m [38;2;153;153;153md[39m[1m[31mp[0m[39m[0m[39m [39m [1m[31mp[0m[39m[38;2;153;153;153mwd[39m[1m[31mp[1m[31mw[0m[39m[0m[32mp[0m[32mw[32md[39m[?1l>[?2004l
+/home/kali/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while
+                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[32ml[39m[32ml[39m[38;2;153;153;153ms[39m[32ml[32ms[39m[?1l>[?2004l
+[0m[01;32m0-positive_or_negative[0m  0-positive_or_negative.c  [01;32m1-last_digit[0m  1-last_digit.c  [01;32m2-print_alphabet[0m  2-print_alphabet.c  README.md  [01;32msc[0m  typescript
+                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31mg[0m[39m[1m[31mg[0m[39m[38;2;153;153;153mithub[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m [39m [38;2;153;153;153mpush[39m[39ma[39m [39m [39m [38;2;153;153;153mdd . [39m[39md[39md[39m [39m[4m.[24m[39m [?1l>[?2004l
+                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming/0x01-variables_if_else_while[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31mg[0m[39m[1m[31mg[0m[39m[38;2;153;153;153mit add .[39m[8D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[1m[31mg[1m[31mi[0m[39m[39m [39m [39m [39m [39m [39m [39m [38;2;153;153;153mt add .[39m[1m[31mg[0m[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [8D[1m[31mg[0m[39m[38;2;153;153;153mit add .[39m[8D[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [9D[1m[31mc[0m[39m[1m[31mc[0m[39m[38;2;153;153;153md 0x02-shell_redirections[39m[25D[0m[32mc[32md[39m[39m [39m[4m.[24m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D[38;2;153;153;153m.[39m[4m.[39m[4m.[24m[?1l>[?2004l
+                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31mg[0m[39m[1m[31mg[0m[39m[38;2;153;153;153mit add .[39m[8D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39ma[39md[39md[39m [39m[4m.[24m [1m[34m|[0m[39m[38;2;153;153;153m git commit -m "d" | git push[39m[29D[39m [32mg[32mi[32mt[39m[39m [39mc[39mo[39mm[39mm[39mi[39mt[39m [35m-[35mm[39m[39m [33m"[33md[33m"[39m[39m [1m[34m|[0m[39m[39m [32mg[32mi[32mt[39m[39m [39mp[39mu[39ms[39mh[?1l>[?2004l
+fatal: Unable to create '/home/kali/Desktop/github/alx-low_level_programming/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+
+
+
+ddsfUsername for 'https://github.com': Password for 'https://github.com': 
+remote: No anonymous write access.
+fatal: Authentication failed for 'https://github.com/natiyeshi/alx-low_level_programming.git/'
+                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31mg[0m[39m[1m[31mg[0m[39m[38;2;153;153;153mit add . | git commit -m "d" | git push[39m[39D[1m[31mg[1m[31mi[0m[39m[1m[31mg[0m[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39D[1m[31mg[0m[39m[38;2;153;153;153mit add . | git commit -m "d" | git push[39m[39D[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [40D[1m[31mg[0m[39m[1m[31mg[0m[39m[38;2;153;153;153mit add . | git commit -m "d" | git push[39m[39D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39ma[39md[39md[39m [39m[4m.[24m[39m [1m[34m|[0m[39m[39m [32mg[32mi[32mt[39m[39m [39mc[39mo[39mm[39mm[39mi[39mt[39m [35m-[35mm[39m[39m [33m"[33md[33m"[39m[39m [1m[34m|[0m[39m[39m [32mg[32mi[32mt[39m[39m [39mp[39mu[39ms[39mh[?1l>[?2004l
+fatal: Unable to create '/home/kali/Desktop/github/alx-low_level_programming/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Username for 'https://github.com': k
+Password for 'https://k@github.com': 
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/natiyeshi/alx-low_level_programming.git/'
+                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[32mgit[39m add [4m.[24m [1m[34m|[0m[39m [32mgit[39m commit [35m-m[39m [33m"d"[39m [1m[34m|[0m[39m [32mgit[39m push[?1l>[?2004l
+fatal: Unable to create '/home/kali/Desktop/github/alx-low_level_programming/.git/index.lock': File exists.
+
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
+Username for 'https://github.com': natiyeshi
+Password for 'https://natiyeshi@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/natiyeshi/alx-low_level_programming.git/'
+                                                                                                                                                                       ]0;kali@kali: ~/Desktop/github/alx-low_level_programming
+[0m[27m[24m[J[32m┌──([1m[32m[34mkali㉿kali[0m[34m[32m)-[[1m[32m[39m~/Desktop/github/alx-low_level_programming[0m[32m]
+└─[1m[32m[34m$[0m[34m[39m [K[?1h=[?2004h[1m[31mg[0m[39m[1m[31mg[0m[39m[38;2;153;153;153mit add . | git commit -m "d" | git push[39m[39D[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [37D[38;2;153;153;153m add . | git commit -m "d" | git push[39m[37D[1m[31mg[1m[31mi[0m[39m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [38D[38;2;153;153;153mt add . | git commit -m "d" | git push[39m[38D[1m[31mg[0m[39m[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39D[1m[31mg[0m[39m[38;2;153;153;153mit add . | git commit -m "d" | git push[39m[39D[0m[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [40D[32ml[39m[32ml[39m[38;2;153;153;153ms[39m[32ml[32ms[39m[?1l>[?2004l
+[0m[01;34m0x00-hello_world[0m  [01;34m0x01-v

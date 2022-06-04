@@ -5,7 +5,7 @@ int main(void)
 	char a = 'a';
 	int i;
 
-	for (i = 1; i < 52; i++)
+	for (i = 1; i <= 52; i++)
 	{
 		putchar(a);
 		a++;
@@ -15,6 +15,6 @@ int main(void)
 		}
 	}
 	printf("\n");
-	
-	return(0);
+
+	return (0);
 }

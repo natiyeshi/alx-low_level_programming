@@ -2,6 +2,11 @@
 #include <stdlib.h>
 #include <time.h>
 
+/**
+ * main - entry pint
+ * Return: return
+ */
+
 int main(void)
 {
 	int n;

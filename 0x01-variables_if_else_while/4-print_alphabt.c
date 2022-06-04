@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/**
+ * main - entry pint
+ * Return: return
+ */
+
+
 int main(void)
 {
 	char a = 'a';

@@ -10,7 +10,9 @@ int main(void)
 		putchar(a);
 		a++;
 		if (i == 26)
+		{
 			a = 'A';
+		}
 	}
 	printf("\n");
 }

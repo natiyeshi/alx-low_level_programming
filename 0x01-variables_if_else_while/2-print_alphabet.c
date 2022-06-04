@@ -3,8 +3,9 @@
 int main(void)
 {
 	char a = 'a';
+	int i;
 
-	for (int i = 1; i <= 26; i++)
+	for (i = 1; i <= 26; i++)
 	{
 		putchar(a);
 		a++;

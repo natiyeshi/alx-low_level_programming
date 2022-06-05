@@ -22,7 +22,7 @@ int main(void)
 				putchar(' ');
 				putchar(temp);
 				putchar(lela);
-				if(ch =='9' && temp == '9' && lela == '9')
+				if (ch == '9' && temp == '9' && lela == '9')
 					continue;
 				putchar(',');
 			}

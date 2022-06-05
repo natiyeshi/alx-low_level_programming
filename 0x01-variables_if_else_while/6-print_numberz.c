@@ -7,13 +7,11 @@
 
 int main(void)
 {
-	char y = '0';
 	int x;
 
 	for (x = 0; x < 10; x++)
 	{
-		putchar(y);
-		y++;
+		putchar(x);
 	}
 	printf("\n");
 

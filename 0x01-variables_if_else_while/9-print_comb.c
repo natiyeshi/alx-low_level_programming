@@ -2,13 +2,12 @@
 
 /**
  * main - d
- * Return:
+ * Return: d
  */
 
 int main(void)
 {
 	int ch;
-	int num;
 
 	for (ch = '0'; ch <= '9'; ch++)
 	{

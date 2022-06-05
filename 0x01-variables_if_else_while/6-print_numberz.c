@@ -1,17 +1,17 @@
 #include <stdio.h>
 
 /**
- * main - jsdlkf
- * Return: re
+ * main - y
+ * Return: 0
  */
 
 int main(void)
 {
-	int x;
+	int ch;
 
-	for (x = 0; x < 10; x++)
+	for (ch = '0'; ch <= '9'; ch++)
 	{
-		putchar(x);
+		putchar(ch);
 	}
 	printf("\n");
 

@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "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"
+echo "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"
 git add .
 cd ../
 git add . | git commit -m "d" | git push

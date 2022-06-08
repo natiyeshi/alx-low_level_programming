@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main.h"
+#include "main.hi"
 
 /**
  * jack_bauer - fl
@@ -22,5 +22,6 @@ void jack_bauer(void)
 			}
 		}
 	}
+	printf("\n");
 }
 

@@ -24,7 +24,7 @@ void print_to_98(int n)
 	{
 		for (i = n; i <= 98; i++)
 		{
-			putchar(n + '0');
+			printf("%d",i);
 			if (i != 90)
 				printf(", ");
 		}

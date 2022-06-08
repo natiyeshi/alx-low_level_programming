@@ -1,18 +1,5 @@
 #include <stdio.h>
-
-/**
- * main - f
- * Return: 0
- */
-
-void jack_bauer(void);
-
-int main(void)
-{
-	jack_bauer();
-
-	return (0);
-}
+#include "main.h"
 
 /**
  * jack_bauer - fl

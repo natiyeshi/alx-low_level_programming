@@ -1,0 +1,5 @@
+#ifndef print_alphabet
+#define print_alphabet
+
+void print_alphabet(void);
+#endif

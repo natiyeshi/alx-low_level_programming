@@ -1,13 +1,13 @@
-#include "main.h"
+#include <stdio.h>
 
-/**
- * main - d
- * Return: 0
- */
 
-int main(void)
+void print_alphabet(void)
 {
-	print_alphabet();
+	char ch = 'a';
 
-	return (0);
+	for (ch = 'a'; ch <= 'z'; ch++)
+	{
+		putchar(ch);
+	}
+	printf("\n");
 }

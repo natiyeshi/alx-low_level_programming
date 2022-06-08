@@ -16,7 +16,13 @@ void times_table(void)
 			if (j == 9)
 				printf("%d", j * i);
 			else
-				printf("%d,  ", j * i);
+			{
+				printf("%d", j * i);
+				if ( (1 + j) * i > 9)
+					printf(", ");
+				else
+					printf(",  ");
+			}
 		}
 		printf("\n");
 	}

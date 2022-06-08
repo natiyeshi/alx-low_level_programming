@@ -20,7 +20,7 @@ void print_alphabet_x10(void)
 		}
 		if (ch == 'z')
 			putchar('z');
-		printf("\n");i
+		printf("\n");
 		r++;
 	}
 }

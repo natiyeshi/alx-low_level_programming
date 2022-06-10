@@ -11,7 +11,6 @@ int main(void)
 
 	for (x = 1; x <= 100; x++)
 	{
-
 		if (x % 5 == 0 && x % 3 == 0)
 			printf("FizzBuzz ");
 		else if (x % 3 == 0)

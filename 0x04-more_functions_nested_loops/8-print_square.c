@@ -16,4 +16,6 @@ void print_square(int size)
 			putchar('#');
 		printf("\n");
 	}
+	if (size < 1)
+		printf("\n");
 }

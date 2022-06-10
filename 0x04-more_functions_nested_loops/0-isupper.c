@@ -1,14 +1,13 @@
 #include <stdio.h>
 #include "main.h"
-
 /**
- * _isupper - nati
- * @c: nata
+ * _isupper - checks
+ * @c: variable
  * Return: 0
  */
 int _isupper(int c)
 {
-	if (c >= 'A' && c <= 'z')
+	if (c >= 'A' && c <= 'Z')
 	{
 		return (1);
 	}

@@ -10,7 +10,7 @@ void print_line(int n)
 {
 	int x;
 
-	for (x = 1; x <= n; x++)
+	for (x = n; x > 0; x--)
 		putchar("_");
 	printf("\n");
 }

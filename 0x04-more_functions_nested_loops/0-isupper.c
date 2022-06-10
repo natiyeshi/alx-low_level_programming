@@ -1,20 +1,16 @@
 #include <stdio.h>
-#include <ctype.h>
-int file(int x){
+#include "main.h"
 
-	if (isupper(x))
-		return 1;
-	
-	return 0;
-}
+/**
+ * _isupper - nati
+ * @c: nata
+ * Return: 0
+ */
 
-int main(void)
+int _isupper(int c)
 {
-	char x = 'z';
-	char y ='Z';
-	int file1 = file(x);
-	printf("%c is %c",x,file1);
-	int file2 =file(y);
-	printf("%c is %c",y, file2);
-	return 0;
+	if (c >= 'A' && c <= 'z')
+		return (1);
+
+	return (0);
 }

@@ -21,4 +21,6 @@ void print_triangle(int size)
 		}
 		printf("\n");
 	}
+	if (size < 1)
+		printf("\n");
 }

@@ -11,6 +11,6 @@ void print_line(int n)
 	int x;
 
 	for (x = n; x > 0; x--)
-		putchar("_");
+		putchar('_');
 	printf("\n");
 }

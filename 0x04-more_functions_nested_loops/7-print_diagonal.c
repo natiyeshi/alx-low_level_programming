@@ -19,5 +19,5 @@ void print_diagonal(int n)
 		printf("\\\n");
 	}
 	if (n <= 0)
-		printf("\\\n");
+		printf("\n");
 }

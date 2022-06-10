@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "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"
+git add .
+cd ../
+git add . | git commit -m "d" | git push

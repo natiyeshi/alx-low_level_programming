@@ -7,7 +7,8 @@
 
 void more_numbers(void)
 {
-	int x, y;
+	int x
+	int y;
 
 	for (y = 0; y < 10; y++)
 	{
@@ -15,3 +16,4 @@ void more_numbers(void)
 			printf("%d", x);
 		printf("\n");
 	}
+}

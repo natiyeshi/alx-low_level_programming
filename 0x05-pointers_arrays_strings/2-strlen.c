@@ -3,9 +3,11 @@
 /**
  * _strlen - file
  * @s: string
+ * Return: 0
  */
 
-int _strlen(char *s){
+int _strlen(char *s)
+{
 	int length;
 
 	length = strlen(s);

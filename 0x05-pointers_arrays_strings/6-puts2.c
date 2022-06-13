@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+#include <string.h>
 
 /**
  * puts2 - file
@@ -14,6 +15,6 @@ void puts2(char *str)
 	for (i = 0; i < length; i++)
 	{
 		if (str[i] % 2 == 0)
-			puts(str[i]);
+			printf("%d",str[i]);
 	}
 }

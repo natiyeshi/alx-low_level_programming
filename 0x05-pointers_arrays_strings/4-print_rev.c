@@ -11,11 +11,11 @@ void print_rev(char *s)
 	char temp;
 	int i, length;
 
-	length = strlen(s) - 1;
-	for (i = 0; i < strlen(s) / 2; i++)
+	length = strlen(s);
+	for (i = 0; i < length / 2; i++)
 	{
 		temp = s[i];
-		s[i] = s[length];
+		s[i] = s[length - 1];
 		s[length] = temp;
 		length--;
 	}

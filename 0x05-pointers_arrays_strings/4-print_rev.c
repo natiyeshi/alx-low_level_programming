@@ -9,15 +9,15 @@
 void print_rev(char *s)
 {
 	char temp;
-	int i, length;
+	int i, length, j;
 
 	length = strlen(s);
+	j = length - 1;
 	for (i = 0; i < length / 2; i++)
 	{
 		temp = s[i];
-		s[i] = s[length - 1];
-		s[length] = temp;
-		length--;
+		s[i] = s[j];
+		s[j--] = temp;
 	}
 	printf("\n");
 }

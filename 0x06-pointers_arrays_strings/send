@@ -4,3 +4,4 @@ cd ..
 git add .
 git commit -m "file"
 git push
+echo "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"

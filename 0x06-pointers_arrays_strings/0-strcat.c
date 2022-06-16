@@ -3,13 +3,23 @@
 #include "main.h"
 
 /**
- * _strcat - file
+ *_strcat - file
  * @dest: f
  * @src: d
+ * Return: 0
  */
 
 char *_strcat(char *dest, char *src)
 {
-	strcat(dest,src);
-	return dest;
+	int len, size, j;
+
+	j = 0;
+	len = sizeof(dest);
+	size = sizeof(src);
+	for (i = len; i < size + len; i++)
+	{
+		dest[i] = src[j++];
+	}
+
+	return (dest);
 }

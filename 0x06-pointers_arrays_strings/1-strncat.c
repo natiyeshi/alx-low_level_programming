@@ -22,6 +22,7 @@ char *_strncat(char *dest, char *src, int n)
 		dest[dlen] = src[i];
 		dlen++;
 	}
+	dest[dlen] = '\0';
 
 	return (dest);
 }

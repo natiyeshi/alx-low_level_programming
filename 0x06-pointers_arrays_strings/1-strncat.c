@@ -2,18 +2,25 @@
 
 /**
  * _strncat - file
- * @*dest: file
+ * @dest: file
  * @src: file
+ * @n: number
  * Return: 0
  */
 
 char *_strncat(char *dest, char *src, int n)
 {
-	int dint;
-	
-	for (dint = 0; dint < n; dint++)
+	int dint = 0;
+
+	while (dest[dlen])
 	{
-		dest[dint] = src[dint];
+		dlen++;
+	}
+
+	for (i = 0; i < n; i++)
+	{
+		dest[dlen] = src[i];
+		dlen++;
 	}
 
 	return (dest);
